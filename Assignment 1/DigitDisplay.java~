@@ -1,0 +1,14 @@
+//Name: Sean Mertens
+//ZID: Z1630956
+//MileageComparator.java
+/*Class that assists in sorting Destination objects by 
+ * their normal mileage.*/
+
+//////////////////////////////////////////////////////////////////////
+//Class DigitDisplay                                                //
+//reads in an integer as input and displays it digit by digit       //
+//////////////////////////////////////////////////////////////////////
+class DigitDisplay
+{
+      
+}
